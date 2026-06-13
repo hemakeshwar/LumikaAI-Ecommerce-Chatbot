@@ -1,0 +1,541 @@
+product_id,name,category,price,stock,brand,rating
+1,HP Pavilion 15 Laptop,Laptop,52999,25,HP,4.3
+2,Dell Inspiron 14 Laptop,Laptop,47500,18,Dell,4.4
+3,Lenovo IdeaPad Slim 3,Laptop,41999,30,Lenovo,4.2
+4,Apple MacBook Air M2,Laptop,114900,10,Apple,4.8
+5,Asus VivoBook 15,Laptop,38999,22,Asus,4.1
+6,HP Spectre x360 14,Laptop,149900,8,HP,4.7
+7,Dell XPS 15 OLED,Laptop,189900,5,Dell,4.8
+8,Lenovo ThinkPad E14,Laptop,68999,14,Lenovo,4.5
+9,Acer Aspire 5,Laptop,37999,35,Acer,4.1
+10,Asus ROG Strix G15,Laptop,94999,12,Asus,4.6
+11,MSI Thin GF63,Laptop,62999,18,MSI,4.3
+12,HP Victus 16 Gaming Laptop,Laptop,74999,15,HP,4.4
+13,Dell G15 Gaming Laptop,Laptop,79999,10,Dell,4.5
+14,Lenovo Legion 5 Pro,Laptop,104999,8,Lenovo,4.7
+15,Apple MacBook Pro 14 M3,Laptop,194900,6,Apple,4.9
+16,Asus ZenBook 14 OLED,Laptop,89999,11,Asus,4.6
+17,Microsoft Surface Laptop 5,Laptop,128990,7,Microsoft,4.5
+18,HP EliteBook 840 G9,Laptop,96999,9,HP,4.4
+19,Acer Nitro 5 Gaming,Laptop,67999,20,Acer,4.3
+20,Lenovo Yoga Slim 7i,Laptop,82999,13,Lenovo,4.5
+21,Samsung Galaxy Book3 Pro,Laptop,134990,7,Samsung,4.6
+22,Razer Blade 15,Laptop,219999,4,Razer,4.7
+23,HP Envy 13,Laptop,78999,16,HP,4.4
+24,Dell Latitude 5540,Laptop,88999,11,Dell,4.3
+25,Asus ProArt Studiobook 16,Laptop,159999,5,Asus,4.7
+26,HP Pavilion Desktop TP01,Desktop,42999,15,HP,4.2
+27,Dell OptiPlex 3000,Desktop,52999,12,Dell,4.3
+28,Lenovo IdeaCentre 3,Desktop,38999,18,Lenovo,4.1
+29,Apple Mac Mini M2,Desktop,69900,9,Apple,4.7
+30,Asus ROG Strix GT35,Desktop,149999,6,Asus,4.6
+31,HP Omen 45L Gaming Desktop,Desktop,129999,7,HP,4.5
+32,Dell Inspiron 3020,Desktop,44999,14,Dell,4.2
+33,Lenovo ThinkCentre M70q,Desktop,48999,10,Lenovo,4.3
+34,Apple iMac 24 M3,Desktop,134900,5,Apple,4.8
+35,MSI Aegis RS 13th Gen,Desktop,169999,4,MSI,4.6
+36,Samsung Galaxy M35,Mobile,18999,30,Samsung,4.3
+37,Redmi Note 13 Pro,Mobile,23999,45,Xiaomi,4.5
+38,OnePlus Nord CE 4,Mobile,24999,20,OnePlus,4.4
+39,Apple iPhone 15,Mobile,79900,12,Apple,4.7
+40,Vivo V30 Pro,Mobile,39999,15,Vivo,4.3
+41,Realme 12 Pro Plus,Mobile,27999,35,Realme,4.2
+42,OPPO Reno 11 Pro,Mobile,35999,18,OPPO,4.1
+43,Samsung Galaxy S24,Mobile,74999,14,Samsung,4.6
+44,Apple iPhone 15 Pro Max,Mobile,159900,8,Apple,4.9
+45,OnePlus 12,Mobile,64999,16,OnePlus,4.6
+46,Xiaomi 14,Mobile,69999,10,Xiaomi,4.5
+47,Samsung Galaxy A55,Mobile,36999,28,Samsung,4.3
+48,Nothing Phone 2a,Mobile,23999,32,Nothing,4.4
+49,Google Pixel 8a,Mobile,52999,11,Google,4.5
+50,Vivo T3x 5G,Mobile,12999,50,Vivo,4.0
+51,Redmi 13C 5G,Mobile,9999,65,Xiaomi,3.9
+52,Samsung Galaxy F55,Mobile,26999,24,Samsung,4.2
+53,OPPO A60,Mobile,16999,38,OPPO,4.0
+54,Motorola Edge 50 Pro,Mobile,31999,20,Motorola,4.3
+55,iQOO Neo 9 Pro,Mobile,36999,18,iQOO,4.5
+56,OnePlus Nord 4,Mobile,29999,22,OnePlus,4.4
+57,Samsung Galaxy Z Flip 6,Mobile,109999,7,Samsung,4.6
+58,Apple iPhone SE 3rd Gen,Mobile,49900,15,Apple,4.3
+59,Realme GT 6T,Mobile,34999,19,Realme,4.4
+60,Tecno Spark 20 Pro,Mobile,11999,55,Tecno,3.8
+61,Apple iPad Air 5th Gen,Tablet,59900,9,Apple,4.7
+62,Samsung Galaxy Tab A8,Tablet,19999,20,Samsung,4.2
+63,Lenovo Tab P11 Pro,Tablet,27999,14,Lenovo,4.3
+64,Redmi Pad SE,Tablet,16999,28,Xiaomi,4.1
+65,Realme Pad 2,Tablet,15999,22,Realme,4.0
+66,Apple iPad Pro 12.9 M2,Tablet,112900,6,Apple,4.8
+67,Samsung Galaxy Tab S9,Tablet,74999,8,Samsung,4.6
+68,Lenovo Tab Extreme,Tablet,79999,7,Lenovo,4.5
+69,OnePlus Pad 2,Tablet,37999,12,OnePlus,4.4
+70,Xiaomi Pad 6,Tablet,28999,15,Xiaomi,4.3
+71,Samsung Galaxy Tab S6 Lite,Tablet,24999,18,Samsung,4.2
+72,Apple iPad 10th Gen,Tablet,44900,11,Apple,4.5
+73,Nokia T21,Tablet,17999,20,Nokia,3.9
+74,Motorola Moto Tab G70,Tablet,15499,25,Motorola,4.0
+75,Asus ROG Flow Z13,Tablet,134999,5,Asus,4.6
+76,Boat Rockerz 450 Headphones,Audio,1499,80,Boat,4.2
+77,Sony WH-1000XM5 Headphones,Audio,24999,15,Sony,4.8
+78,JBL Tune 760NC Headphones,Audio,6999,40,JBL,4.4
+79,Sennheiser CX 300S Earphones,Audio,2999,55,Sennheiser,4.3
+80,Boat Airdopes 141 TWS,Audio,999,100,Boat,4.0
+81,Jabra Elite 4 TWS,Audio,5999,30,Jabra,4.5
+82,Apple AirPods Pro 2nd Gen,Audio,24900,18,Apple,4.8
+83,Sony WF-1000XM5 TWS,Audio,19999,12,Sony,4.7
+84,Samsung Galaxy Buds 2 Pro,Audio,9999,25,Samsung,4.5
+85,Bose QuietComfort 45,Audio,29999,10,Bose,4.7
+86,JBL Flip 6 Speaker,Audio,9499,35,JBL,4.5
+87,Boat Stone 1200 Speaker,Audio,2499,60,Boat,4.1
+88,Sony SRS-XB43 Speaker,Audio,12999,20,Sony,4.4
+89,Bose SoundLink Revolve+,Audio,19999,8,Bose,4.6
+90,Marshall Emberton II Speaker,Audio,13999,15,Marshall,4.6
+91,Apple AirPods 3rd Gen,Audio,17900,22,Apple,4.6
+92,OnePlus Buds 3,Audio,4999,40,OnePlus,4.3
+93,Noise Buds VS104 TWS,Audio,799,90,Noise,3.9
+94,Sennheiser HD 450BT,Audio,8999,18,Sennheiser,4.5
+95,JBL Charge 5 Speaker,Audio,14999,25,JBL,4.6
+96,Realme Buds T300,Audio,2499,55,Realme,4.1
+97,Skullcandy Crusher Evo,Audio,10999,12,Skullcandy,4.3
+98,Harman Kardon Onyx Studio 8,Audio,29999,7,Harman Kardon,4.6
+99,Boat Bassheads 900 Wired,Audio,699,120,Boat,4.0
+100,Xiaomi Mi True Wireless 2,Audio,1499,70,Xiaomi,4.0
+101,Samsung 55 inch 4K Smart TV,Television,42999,10,Samsung,4.5
+102,LG 43 inch Full HD TV,Television,28999,14,LG,4.3
+103,Sony Bravia 50 inch 4K TV,Television,54999,8,Sony,4.7
+104,Mi 40 inch Smart TV,Television,21999,20,Xiaomi,4.1
+105,OnePlus 65 inch QLED TV,Television,62999,6,OnePlus,4.6
+106,Haier 32 inch HD Ready TV,Television,12999,25,Haier,3.9
+107,Samsung 75 inch Neo QLED,Television,189999,4,Samsung,4.8
+108,LG 55 inch OLED C3,Television,134999,5,LG,4.8
+109,Sony Bravia 65 inch XR A80L,Television,179999,4,Sony,4.8
+110,TCL 43 inch 4K Android TV,Television,24999,18,TCL,4.2
+111,Vu 50 inch Premium 4K TV,Television,32999,12,Vu,4.1
+112,Hisense 58 inch 4K TV,Television,38999,9,Hisense,4.2
+113,Samsung 32 inch HD Smart TV,Television,16999,28,Samsung,4.2
+114,LG 65 inch NanoCell TV,Television,79999,6,LG,4.5
+115,Panasonic 43 inch 4K TV,Television,29999,11,Panasonic,4.1
+116,OnePlus 43 inch Y1S Pro,Television,25999,16,OnePlus,4.2
+117,Sony 85 inch Bravia XR,Television,299999,3,Sony,4.9
+118,Mi 32 inch HD Ready TV,Television,13999,30,Xiaomi,4.0
+119,Vu 65 inch OLED TV,Television,109999,5,Vu,4.4
+120,TCL 55 inch QLED 4K TV,Television,41999,8,TCL,4.3
+121,Canon EOS 1500D DSLR,Camera,34999,12,Canon,4.5
+122,Nikon D3500 DSLR,Camera,29999,10,Nikon,4.4
+123,Sony Alpha ZV-E10 Mirrorless,Camera,59999,7,Sony,4.7
+124,GoPro Hero 12 Action Camera,Camera,35999,15,GoPro,4.6
+125,Fujifilm Instax Mini 12,Camera,7999,40,Fujifilm,4.3
+126,Canon EOS R50 Mirrorless,Camera,74999,8,Canon,4.6
+127,Nikon Z30 Mirrorless,Camera,64999,9,Nikon,4.5
+128,Sony Alpha A6400,Camera,79999,6,Sony,4.7
+129,Fujifilm X-T30 II,Camera,89999,5,Fujifilm,4.7
+130,DJI Osmo Pocket 3,Camera,26999,18,DJI,4.6
+131,Canon PowerShot V10,Camera,29999,12,Canon,4.4
+132,Nikon Coolpix P950,Camera,44999,8,Nikon,4.4
+133,GoPro Hero 11 Black Mini,Camera,24999,20,GoPro,4.5
+134,Insta360 X4,Camera,44999,10,Insta360,4.6
+135,Polaroid Now+ Camera,Camera,13999,22,Polaroid,4.2
+136,Sony ZV-1 Mark II,Camera,54999,9,Sony,4.6
+137,Canon EOS 200D II DSLR,Camera,49999,7,Canon,4.5
+138,DJI Mini 4 Pro Drone,Camera,89999,6,DJI,4.8
+139,Fujifilm Instax Wide 300,Camera,6999,35,Fujifilm,4.2
+140,Nikon Z50 Mirrorless Kit,Camera,84999,6,Nikon,4.6
+141,Seagate 1TB External HDD,Storage,3999,60,Seagate,4.4
+142,WD 2TB External HDD,Storage,5499,35,WD,4.5
+143,Samsung 256GB Pen Drive,Storage,1299,90,Samsung,4.2
+144,SanDisk 128GB SD Card,Storage,899,120,SanDisk,4.3
+145,Seagate 2TB BarraCuda HDD,Storage,4299,45,Seagate,4.3
+146,WD Blue 1TB SSD,Storage,6999,30,WD,4.5
+147,Samsung 970 EVO 500GB NVMe,Storage,5499,25,Samsung,4.7
+148,Crucial MX500 1TB SSD,Storage,7999,20,Crucial,4.6
+149,SanDisk Extreme 1TB SSD,Storage,9999,18,SanDisk,4.5
+150,Kingston 64GB Pen Drive,Storage,599,150,Kingston,4.1
+151,Seagate 4TB Backup Plus,Storage,8999,22,Seagate,4.4
+152,WD 4TB My Cloud NAS,Storage,14999,10,WD,4.3
+153,Samsung T7 1TB Portable SSD,Storage,8499,20,Samsung,4.6
+154,SanDisk 512GB MicroSD,Storage,2499,80,SanDisk,4.4
+155,Lexar 256GB NVMe SSD,Storage,3999,35,Lexar,4.2
+156,Logitech MX Master 3 Mouse,Accessories,8999,30,Logitech,4.7
+157,Logitech K380 Wireless Keyboard,Accessories,3499,45,Logitech,4.5
+158,Dell 24 inch FHD Monitor,Accessories,13999,16,Dell,4.4
+159,Anker 20000mAh Power Bank,Accessories,2499,50,Anker,4.5
+160,Mi 65W Fast Charger,Accessories,799,100,Xiaomi,4.3
+161,Belkin USB-C Hub 7-in-1,Accessories,3999,25,Belkin,4.4
+162,Razer BlackWidow V4 Keyboard,Accessories,12999,12,Razer,4.6
+163,Logitech G502 X Plus Mouse,Accessories,9999,18,Logitech,4.7
+164,Samsung 27 inch QHD Monitor,Accessories,22999,10,Samsung,4.5
+165,LG 32 inch UHD 4K Monitor,Accessories,34999,7,LG,4.6
+166,Portronics Toad 23 Mouse,Accessories,499,150,Portronics,4.0
+167,Zebronics ZEB-K2000MW Keyboard,Accessories,599,120,Zebronics,3.9
+168,Apple Magic Mouse,Accessories,7900,20,Apple,4.4
+169,Apple Magic Keyboard,Accessories,9900,15,Apple,4.5
+170,Corsair HS65 Headset,Accessories,6999,22,Corsair,4.4
+171,Anker PowerCore 10000 mAh,Accessories,1499,80,Anker,4.4
+172,TP-Link AX3000 WiFi Router,Accessories,4499,25,TP-Link,4.4
+173,HP 27 inch FHD Monitor,Accessories,16999,12,HP,4.3
+174,Logitech C920 HD Webcam,Accessories,6499,28,Logitech,4.5
+175,HyperX Cloud II Gaming Headset,Accessories,5999,20,HyperX,4.6
+176,Whirlpool 260L Refrigerator,Appliances,24999,8,Whirlpool,4.3
+177,LG 190L Single Door Fridge,Appliances,16999,10,LG,4.2
+178,Samsung 580L Side by Side Fridge,Appliances,68999,5,Samsung,4.6
+179,IFB 7kg Front Load Washer,Appliances,32999,7,IFB,4.5
+180,Bosch 6.5kg Fully Auto Washer,Appliances,27999,9,Bosch,4.4
+181,Voltas 1.5 Ton 3 Star Split AC,Appliances,34999,6,Voltas,4.3
+182,Daikin 1 Ton 5 Star Inverter AC,Appliances,39999,5,Daikin,4.6
+183,Prestige Induction Cooktop 2000W,Appliances,2499,40,Prestige,4.2
+184,Philips Air Fryer HD9200,Appliances,4999,28,Philips,4.4
+185,Morphy Richards Mixer Grinder,Appliances,3199,35,Morphy Richards,4.3
+186,Bajaj 1500W Room Heater,Appliances,1799,50,Bajaj,4.1
+187,Dyson V12 Slim Vacuum,Appliances,42900,8,Dyson,4.7
+188,Samsung 253L Double Door Fridge,Appliances,28999,9,Samsung,4.4
+189,LG 8kg Top Load Washer,Appliances,22999,11,LG,4.3
+190,Haier 1.5 Ton Inverter AC,Appliances,32999,7,Haier,4.2
+191,Panasonic 1.5 Ton 5 Star AC,Appliances,41999,5,Panasonic,4.4
+192,Havells OTG 28L,Appliances,5499,20,Havells,4.3
+193,Bajaj Platini 36L OTG,Appliances,4799,22,Bajaj,4.2
+194,Pigeon Favourite 750W Mixer,Appliances,1999,55,Pigeon,4.2
+195,Kent Grand Plus Water Purifier,Appliances,14999,14,Kent,4.4
+196,Aquaguard Marvel NXT Purifier,Appliances,12999,16,Aquaguard,4.3
+197,Usha 400mm Pedestal Fan,Appliances,2899,40,Usha,4.1
+198,Orient Electric Wall Fan,Appliances,1899,50,Orient,4.0
+199,Eureka Forbes Trendy Zip Vacuum,Appliances,3999,25,Eureka Forbes,4.1
+200,Crompton Greaves 5L Geyser,Appliances,3499,30,Crompton,4.2
+201,Havells Instanio 3L Geyser,Appliances,2699,35,Havells,4.1
+202,Philips HD3130 Rice Cooker,Appliances,2599,40,Philips,4.3
+203,Bosch 12 Place Dishwasher,Appliances,39999,6,Bosch,4.5
+204,IFB Microwave 25L Convection,Appliances,11999,15,IFB,4.4
+205,Samsung 32L Convection Microwave,Appliances,14999,11,Samsung,4.4
+206,Nike Air Max 270 Sneakers,Fashion,8999,30,Nike,4.5
+207,Adidas Ultraboost 22 Running Shoes,Fashion,9999,25,Adidas,4.6
+208,Puma Virat Kohli T-Shirt,Fashion,999,80,Puma,4.1
+209,Levi's 511 Slim Fit Jeans,Fashion,2999,60,Levis,4.4
+210,Peter England Formal Shirt,Fashion,1299,70,Peter England,4.2
+211,Allen Solly Chino Trousers,Fashion,1799,45,Allen Solly,4.3
+212,Nike Dri-FIT Running Shorts,Fashion,1499,65,Nike,4.3
+213,Adidas Tiro 21 Track Pants,Fashion,2499,50,Adidas,4.4
+214,Raymond Suit Set,Fashion,7999,20,Raymond,4.5
+215,Van Heusen Regular Fit Shirt,Fashion,1599,55,Van Heusen,4.2
+216,Tommy Hilfiger Polo T-Shirt,Fashion,2999,30,Tommy Hilfiger,4.4
+217,Levi's 501 Original Jeans,Fashion,3499,40,Levis,4.5
+218,Woodland Casual Shoes,Fashion,3999,35,Woodland,4.3
+219,Red Tape Formal Leather Shoes,Fashion,2499,40,Red Tape,4.2
+220,Reebok Classic Sneakers,Fashion,3999,28,Reebok,4.3
+221,HRX Active T-Shirt,Fashion,699,90,HRX,4.0
+222,United Colors of Benetton Shirt,Fashion,1499,55,UCB,4.2
+223,Arrow Regular Fit Trousers,Fashion,1999,42,Arrow,4.3
+224,Superdry Original Logo Hoodie,Fashion,4999,22,Superdry,4.4
+225,Fastrack Men's Analog Watch,Fashion,2499,40,Fastrack,4.2
+226,Biba Kurta Set,Fashion,1999,55,Biba,4.3
+227,W Women Straight Kurta,Fashion,1299,65,W,4.2
+228,Global Desi Floral Dress,Fashion,2499,40,Global Desi,4.3
+229,Aurelia Women Palazzo Set,Fashion,1799,50,Aurelia,4.2
+230,Fabindia Cotton Saree,Fashion,2999,30,Fabindia,4.5
+231,H&M Women Flare Jeans,Fashion,2499,38,H&M,4.2
+232,Zara Women Blazer,Fashion,5999,18,Zara,4.4
+233,Nike Women Yoga Pants,Fashion,2999,35,Nike,4.4
+234,Adidas Women Stan Smith Shoes,Fashion,6999,22,Adidas,4.5
+235,Mochi Women Heels,Fashion,2499,28,Mochi,4.2
+236,Casio G-Shock Digital Watch,Watches,5999,20,Casio,4.6
+237,Titan Edge Slim Watch,Watches,8999,15,Titan,4.5
+238,Fastrack Analog Chronograph,Watches,2499,40,Fastrack,4.2
+239,Apple Watch Series 9 45mm,Watches,44900,10,Apple,4.7
+240,Samsung Galaxy Watch 6,Watches,22999,12,Samsung,4.5
+241,Garmin Forerunner 255,Watches,32999,8,Garmin,4.6
+242,Noise ColorFit Pro 4,Watches,2999,45,Noise,4.2
+243,boAt Wave Sigma Smartwatch,Watches,1499,60,Boat,4.0
+244,Amazfit GTR 4,Watches,13999,18,Amazfit,4.4
+245,Fossil Gen 6 Smartwatch,Watches,19999,9,Fossil,4.3
+246,Titan Raga Women Watch,Watches,6999,18,Titan,4.4
+247,Omega Seamaster Planet Ocean,Watches,599999,2,Omega,4.9
+248,Seiko Presage Automatic,Watches,34999,5,Seiko,4.7
+249,Orient Bambino V4,Watches,18999,8,Orient,4.5
+250,Casio Edifice Analog,Watches,7999,22,Casio,4.4
+251,Milton Thermosteel Flask 1L,HomeKitchen,699,100,Milton,4.3
+252,Pigeon 3L Pressure Cooker,HomeKitchen,1199,60,Pigeon,4.4
+253,Cello World Plastic Storage Set,HomeKitchen,899,55,Cello,4.1
+254,Amazon Basics 6 Piece Cookware,HomeKitchen,3499,22,Amazon Basics,4.3
+255,Solimo King Size Bed Sheet Set,HomeKitchen,799,80,Solimo,4.2
+256,Prestige Omega Deluxe Tawa,HomeKitchen,999,70,Prestige,4.3
+257,Borosil Vision Glass Set 6,HomeKitchen,699,90,Borosil,4.4
+258,IKEA Flisat Children Shelf,HomeKitchen,4999,15,IKEA,4.3
+259,Treo By Milton Glass Casserole,HomeKitchen,799,65,Milton,4.2
+260,Vinod Stainless Steel Kadai 2L,HomeKitchen,1299,55,Vinod,4.3
+261,TTK Prestige Clip On Cooker 5L,HomeKitchen,1999,45,Prestige,4.4
+262,Tupperware Modular Mates Set,HomeKitchen,2499,30,Tupperware,4.5
+263,Nestasia Ceramic Bowl Set,HomeKitchen,1499,40,Nestasia,4.4
+264,Cuisinart 12 Cup Coffeemaker,HomeKitchen,7999,12,Cuisinart,4.5
+265,Morphy Richards Toaster 4 Slice,HomeKitchen,2999,25,Morphy Richards,4.3
+266,Sony PlayStation 5 Console,Gaming,54990,8,Sony,4.8
+267,Microsoft Xbox Series X,Gaming,52990,7,Microsoft,4.7
+268,Nintendo Switch OLED,Gaming,34999,12,Nintendo,4.8
+269,Razer Kraken V3 Gaming Headset,Gaming,8999,20,Razer,4.5
+270,SteelSeries Arctis Nova Pro,Gaming,19999,8,SteelSeries,4.7
+271,Logitech G Pro X Gaming Keyboard,Gaming,10999,15,Logitech,4.6
+272,Razer DeathAdder V3 Gaming Mouse,Gaming,5999,25,Razer,4.6
+273,HyperX Cloud Alpha Gaming Headset,Gaming,5499,28,HyperX,4.5
+274,Xbox Series S Console,Gaming,34990,10,Microsoft,4.5
+275,PS5 DualSense Controller,Gaming,6490,30,Sony,4.7
+276,Nintendo Switch Joy-Con Pair,Gaming,7000,20,Nintendo,4.4
+277,Corsair K95 RGB Gaming Keyboard,Gaming,15999,10,Corsair,4.6
+278,Logitech G435 Wireless Headset,Gaming,4999,22,Logitech,4.4
+279,SteelSeries Rival 650 Mouse,Gaming,7999,14,SteelSeries,4.5
+280,Asus ROG Chakram X Mouse,Gaming,11999,9,Asus,4.5
+281,Razer Gigantus V2 XL Mouse Pad,Gaming,2999,35,Razer,4.4
+282,Xbox Game Pass 3 Month Card,Gaming,1299,50,Microsoft,4.7
+283,PlayStation Plus 12 Month Card,Gaming,3499,40,Sony,4.6
+284,NVIDIA GeForce RTX 4070,Gaming,55999,5,NVIDIA,4.8
+285,AMD Radeon RX 7600,Gaming,28999,8,AMD,4.5
+286,Atomic Habits by James Clear,Books,399,200,Penguin,4.8
+287,Rich Dad Poor Dad,Books,299,180,Viacom18,4.7
+288,The Alchemist by Paulo Coelho,Books,199,220,HarperCollins,4.8
+289,Deep Work by Cal Newport,Books,349,150,Hachette,4.7
+290,Think and Grow Rich,Books,199,200,Fingerprint,4.6
+291,The Psychology of Money,Books,399,175,HarperCollins,4.8
+292,Sapiens by Yuval Noah Harari,Books,499,140,Vintage,4.7
+293,Zero to One by Peter Thiel,Books,349,130,Virgin Books,4.6
+294,The 4-Hour Workweek,Books,399,110,Vermilion,4.5
+295,Start With Why by Simon Sinek,Books,299,160,Penguin,4.6
+296,Ikigai by Hector Garcia,Books,299,190,Penguin,4.7
+297,Can't Hurt Me by David Goggins,Books,499,120,Lioncrest,4.8
+298,The Subtle Art of Not Giving,Books,349,155,HarperOne,4.6
+299,Python Crash Course 3rd Ed,Books,699,85,No Starch Press,4.7
+300,Clean Code by Robert Martin,Books,599,70,Pearson,4.6
+301,Lakmé 9 to 5 Foundation,Beauty,599,80,Lakme,4.2
+302,Maybelline Fit Me Foundation,Beauty,449,90,Maybelline,4.3
+303,L'Oreal Paris Lip Colour,Beauty,349,110,LOreal,4.2
+304,Neutrogena Sunscreen SPF 50,Beauty,549,95,Neutrogena,4.5
+305,Biotique Bio Papaya Face Wash,Beauty,149,150,Biotique,4.2
+306,Mamaearth Ubtan Face Wash,Beauty,249,140,Mamaearth,4.3
+307,WOW Skin Apple Cider Shampoo,Beauty,349,120,WOW,4.3
+308,Tresemme Keratin Smooth Shampoo,Beauty,399,100,Tresemme,4.2
+309,Forest Essentials Face Serum,Beauty,2499,18,Forest Essentials,4.5
+310,Plum Grape Seed Face Moisturizer,Beauty,499,75,Plum,4.4
+311,The Ordinary Niacinamide 10%,Beauty,699,60,The Ordinary,4.6
+312,Minimalist Salicylic Acid Serum,Beauty,599,70,Minimalist,4.5
+313,Nykaa SKINgenius Foundation,Beauty,799,55,Nykaa,4.2
+314,Himalaya Herbals Face Pack,Beauty,199,130,Himalaya,4.1
+315,Gillette Mach3 Razor,Beauty,399,100,Gillette,4.4
+316,Philips BRT383 Body Trimmer,Beauty,1999,40,Philips,4.4
+317,Braun Series 5 Electric Shaver,Beauty,6999,18,Braun,4.5
+318,Dyson Airwrap Hair Styler,Beauty,44900,5,Dyson,4.7
+319,Philips HP8315 Hair Straightener,Beauty,1299,45,Philips,4.2
+320,VLCC Shape Up Slimming Oil,Beauty,349,88,VLCC,4.0
+321,Boldfit Gym Gloves,Sports,499,80,Boldfit,4.2
+322,Nivia Carbonite Web Basketball,Sports,999,50,Nivia,4.3
+323,SG RSD Xtreme Cricket Bat,Sports,2999,25,SG,4.4
+324,Yonex Muscle Power 2 Badminton,Sports,1499,35,Yonex,4.3
+325,Cosco Foot Ball Size 5,Sports,799,60,Cosco,4.1
+326,Decathlon Domyos 10kg Dumbbell,Sports,999,40,Decathlon,4.4
+327,Strauss Yoga Mat 6mm,Sports,599,90,Strauss,4.3
+328,Boldfit Resistance Bands Set,Sports,499,100,Boldfit,4.2
+329,Lifelong Fitness Cycle,Sports,7999,15,Lifelong,4.2
+330,Powermax TDA-125 Treadmill,Sports,24999,8,Powermax,4.3
+331,Nike Dri-FIT Training Gloves,Sports,1999,30,Nike,4.4
+332,Adidas Copa Pure Soccer Cleats,Sports,4999,20,Adidas,4.4
+333,Yonex Voltric 0.5DG Shuttles,Sports,699,60,Yonex,4.3
+334,Nivia Dominator Football Boots,Sports,2499,22,Nivia,4.2
+335,Decathlon Forclaz 40L Backpack,Sports,2999,18,Decathlon,4.5
+336,LEGO Classic Brick Box 11013,Toys,3999,30,LEGO,4.7
+337,Funskool Monopoly Board Game,Toys,999,50,Funskool,4.3
+338,Hot Wheels 5 Car Multipack,Toys,499,80,Hot Wheels,4.4
+339,Barbie Dreamhouse Playset,Toys,7999,12,Barbie,4.5
+340,Nerf Elite 2.0 Echo CS-10,Toys,1999,25,Nerf,4.3
+341,Play-Doh Kitchen Creations Set,Toys,799,55,Play-Doh,4.4
+342,LEGO Technic Bugatti Chiron,Toys,24999,5,LEGO,4.8
+343,Crayola 64 Crayon Box,Toys,499,100,Crayola,4.5
+344,Kumon My Book of Numbers,Toys,199,120,Kumon,4.4
+345,Fisher Price Laugh Learn Puppy,Toys,1299,38,Fisher-Price,4.3
+346,Transformers Bumblebee Figure,Toys,1499,30,Transformers,4.2
+347,UNO Classic Card Game,Toys,299,150,Mattel,4.6
+348,Rubik's Cube 3x3,Toys,349,120,Rubiks,4.5
+349,Carrom Board Full Size,Toys,1999,22,Exact,4.3
+350,Remote Control Car 1:18 Scale,Toys,1499,35,Generic,4.1
+351,Nilkamal Plastic Chair Set 4,Furniture,3999,15,Nilkamal,4.1
+352,Godrej Interio Study Table,Furniture,8999,8,Godrej,4.3
+353,Wakefit Orthopaedic Mattress Queen,Furniture,14999,10,Wakefit,4.6
+354,Sleepyhead Original 3 Layer Mattress,Furniture,12999,12,Sleepyhead,4.5
+355,IKEA KALLAX Shelf Unit,Furniture,6999,9,IKEA,4.4
+356,Durian Recliner Chair,Furniture,29999,5,Durian,4.3
+357,Urban Ladder Bali 3 Seater Sofa,Furniture,49999,4,Urban Ladder,4.4
+358,Pepperfry Engineered Wood Wardrobe,Furniture,18999,7,Pepperfry,4.2
+359,HomeTown King Size Bed Frame,Furniture,24999,6,HomeTown,4.3
+360,Fabindia Wooden Coffee Table,Furniture,14999,8,Fabindia,4.4
+361,IKEA POANG Armchair,Furniture,9999,10,IKEA,4.5
+362,Nilkamal Freedom Big Wardrobe,Furniture,11999,8,Nilkamal,4.2
+363,Wakefit Height Adjustable Desk,Furniture,8999,12,Wakefit,4.4
+364,FurnitureKraft Bookshelf 4 Tier,Furniture,3999,18,FurnitureKraft,4.1
+365,Durian Leatherette Office Chair,Furniture,12999,9,Durian,4.3
+366,Wildcraft 45L Trekking Backpack,Bags,2499,35,Wildcraft,4.4
+367,Skybags Bingo Plus 25L Backpack,Bags,1499,50,Skybags,4.2
+368,American Tourister 55cm Trolley,Bags,4999,20,American Tourister,4.4
+369,Samsonite Opto PC 69cm Luggage,Bags,12999,10,Samsonite,4.6
+370,VIP Verve Plus 65cm Trolley,Bags,5999,15,VIP,4.3
+371,Lavie Women Tote Bag,Bags,1799,40,Lavie,4.2
+372,Hidesign Leather Laptop Bag,Bags,3999,18,Hidesign,4.4
+373,Fossil Men's Defender Backpack,Bags,5999,12,Fossil,4.4
+374,Caprese Anaya Handbag,Bags,2499,25,Caprese,4.2
+375,Wildcraft Rain Cover 45L,Bags,499,60,Wildcraft,4.3
+376,Tommy Hilfiger Corporate Bag,Bags,8999,10,Tommy Hilfiger,4.5
+377,Addons Genuine Leather Wallet,Bags,699,80,Addons,4.2
+378,Baggit Women Sling Bag,Bags,1299,45,Baggit,4.1
+379,Skybags Hexa 30L Casual Backpack,Bags,1299,55,Skybags,4.2
+380,American Tourister 75cm Check-in,Bags,6999,12,American Tourister,4.3
+381,Omron HEM-7120 BP Monitor,Health,1799,40,Omron,4.4
+382,Dr. Trust Pulse Oximeter,Health,999,60,Dr Trust,4.3
+383,Dr. Morepen Glucometer BG-03,Health,799,55,Dr Morepen,4.2
+384,Beurer Thermometer FT 90,Health,1499,45,Beurer,4.4
+385,Healthkart HK Vitals Multivitamin,Health,499,90,Healthkart,4.2
+386,MuscleBlaze Whey Protein 1kg,Health,1499,50,MuscleBlaze,4.4
+387,Optimum Nutrition Gold Standard Whey,Health,3999,30,ON,4.6
+388,Himalayan Organics Vitamin D3,Health,599,75,Himalayan Organics,4.3
+389,Fast&Up Reload Electrolytes,Health,499,80,Fast&Up,4.2
+390,TrueBasics Omega 3 Fish Oil,Health,699,70,TrueBasics,4.3
+391,Boldfit Mass Gainer 3kg,Health,1299,35,Boldfit,4.1
+392,Omron Digital Weighing Scale,Health,1299,40,Omron,4.3
+393,Dr. Trust Digital Thermometer,Health,349,100,Dr Trust,4.2
+394,Wellbeing Nutrition Collagen,Health,1999,25,Wellbeing Nutrition,4.4
+395,Kapiva Shilajit Gold Resin,Health,1299,30,Kapiva,4.2
+396,Bosch S5 Car Battery 60AH,Automotive,5999,20,Bosch,4.4
+397,3M Scotchgard Paint Protection,Automotive,3499,15,3M,4.3
+398,Vega Crux Helmet,Automotive,1299,35,Vega,4.2
+399,Steelbird SBH-11 Helmet,Automotive,1999,25,Steelbird,4.4
+400,Michelin Primacy 4 Tyre 195/65,Automotive,5499,12,Michelin,4.5
+401,Car Front Seat Covers Set,Automotive,1499,40,Carmate,4.1
+402,Meguiar's Car Polish G18216,Automotive,999,30,Meguiars,4.4
+403,Garmin DriveSmart 65 GPS,Automotive,14999,8,Garmin,4.5
+404,70mai 4K Dashcam A800S,Automotive,9999,15,70mai,4.6
+405,Anker Roav Jump Starter S3,Automotive,3999,18,Anker,4.3
+406,Hella 12V LED Light Bar,Automotive,2999,20,Hella,4.2
+407,Michelin Car Tire Inflator,Automotive,1499,35,Michelin,4.3
+408,3M Headlight Restoration Kit,Automotive,799,45,3M,4.2
+409,Autocop Car Immobilizer System,Automotive,4999,10,Autocop,4.1
+410,Amaron AAM-GO-00038B20L Battery,Automotive,4799,18,Amaron,4.3
+411,Pampers Active Baby Diapers L48,Baby,849,80,Pampers,4.5
+412,Huggies Wonder Pants XL 48,Baby,849,75,Huggies,4.4
+413,Chicco Ohlala 3 Stroller,Baby,8999,8,Chicco,4.5
+414,Fisher Price Jumperoo Baby Bouncer,Baby,7999,6,Fisher-Price,4.5
+415,Graco Pack n Play Playard,Baby,12999,5,Graco,4.4
+416,Chicco Naturfit Baby Bottle Set,Baby,1499,35,Chicco,4.4
+417,Dr. Brown Wide Neck Bottles,Baby,1299,40,Dr Brown,4.5
+418,Himalaya Babycare Gift Pack,Baby,699,55,Himalaya,4.4
+419,Mamaearth Baby Lotion 400ml,Baby,399,70,Mamaearth,4.3
+420,Mee Mee Baby Carry Cot,Baby,2999,15,Mee Mee,4.2
+421,Classmate A4 Notebook 200 Pages,Stationery,99,300,Classmate,4.2
+422,Cello Pinpoint Ball Pen 10 Pack,Stationery,49,500,Cello,4.1
+423,Staedtler Mars Lumograph Pencils,Stationery,299,150,Staedtler,4.5
+424,Camlin Kokuyo Sketch Pens 24,Stationery,199,200,Camlin,4.3
+425,Scotch Magic Tape 12mm 3 Pack,Stationery,149,250,Scotch,4.3
+426,Deli ES50430 Electric Stapler,Stationery,1499,30,Deli,4.3
+427,Kores Jumbo Glue Stick 40g,Stationery,79,400,Kores,4.2
+428,Faber-Castell Watercolour 24,Stationery,399,120,Faber-Castell,4.5
+429,Leitz WOW Lever Arch File,Stationery,499,80,Leitz,4.3
+430,Pilot G2 Gel Pen Blue 10 Pack,Stationery,399,180,Pilot,4.6
+431,Brother HL-L2321D Laser Printer,Stationery,12999,14,Brother,4.4
+432,HP LaserJet Pro M428fdw MFP,Stationery,32999,7,HP,4.5
+433,Canon PIXMA G3770 Printer,Stationery,13999,10,Canon,4.3
+434,Epson EcoTank L3252 Printer,Stationery,12999,11,Epson,4.4
+435,Post-it Super Sticky Notes 90,Stationery,199,200,Post-it,4.4
+436,Tata Sampann Masoor Dal 1kg,Food,89,500,Tata Sampann,4.3
+437,Fortune Sunlite Refined Oil 5L,Food,649,300,Fortune,4.2
+438,Amul Butter 500g,Food,250,400,Amul,4.6
+439,Nescafe Classic Coffee 200g,Food,349,350,Nescafe,4.5
+440,Twinings Earl Grey Tea 50 Bags,Food,499,250,Twinings,4.5
+441,Cadbury Celebrations Gift Box,Food,799,150,Cadbury,4.6
+442,Bagrry's Muesli 1kg Fruit Nut,Food,499,200,Bagrry's,4.3
+443,Yoga Bar Oats Dark Choc 1.2kg,Food,799,120,Yoga Bar,4.4
+444,Epigamia Greek Yogurt 400g,Food,199,180,Epigamia,4.3
+445,Haldiram Aloo Bhujia 1kg,Food,299,250,Haldiram,4.4
+446,Lay's Classic Salted 200g,Food,50,600,Lays,4.2
+447,Quaker Oats 2kg,Food,379,300,Quaker,4.4
+448,Keventers Cold Coffee 250ml,Food,79,400,Keventers,4.3
+449,Red Bull Energy Drink 250ml,Food,125,500,Red Bull,4.2
+450,Bira 91 Beer 330ml 6 Pack,Food,699,200,Bira,4.1
+451,Amazon Echo Dot 5th Gen,SmartHome,3999,35,Amazon,4.5
+452,Google Nest Mini 2nd Gen,SmartHome,4999,28,Google,4.4
+453,Apple HomePod Mini,SmartHome,9900,15,Apple,4.5
+454,Philips Hue White 4 Bulb Kit,SmartHome,5999,20,Philips,4.5
+455,Syska LED Smart Bulb 12W,SmartHome,599,80,Syska,4.2
+456,Mi Smart Plug 2 USB,SmartHome,699,65,Xiaomi,4.3
+457,TP-Link Kasa Smart Plug,SmartHome,1499,40,TP-Link,4.4
+458,Amazon Echo Show 8,SmartHome,9999,12,Amazon,4.5
+459,Arlo Pro 4 Security Camera,SmartHome,14999,8,Arlo,4.5
+460,Google Nest Doorbell Wired,SmartHome,12999,10,Google,4.4
+461,Mi 360 Home Security Camera,SmartHome,2499,45,Xiaomi,4.3
+462,Philips Hue Play Light Bar,SmartHome,7999,15,Philips,4.5
+463,Amazon Alexa Echo 4th Gen,SmartHome,7999,18,Amazon,4.5
+464,TP-Link Tapo C310 Outdoor Cam,SmartHome,3499,30,TP-Link,4.3
+465,Wipro Smart LED Strip 5m,SmartHome,1299,55,Wipro,4.2
+466,TP-Link Archer AX73 WiFi 6,Networking,9999,18,TP-Link,4.5
+467,Netgear Nighthawk AX12 Router,Networking,22999,8,Netgear,4.6
+468,D-Link DIR-825 AC1200 Router,Networking,3499,25,D-Link,4.2
+469,TP-Link RE605X WiFi Extender,Networking,3999,20,TP-Link,4.3
+470,Netgear Orbi RBK50 Mesh,Networking,19999,7,Netgear,4.5
+471,Cisco Linksys E7350 Router,Networking,5499,14,Linksys,4.3
+472,TP-Link TL-SG108 8 Port Switch,Networking,1999,30,TP-Link,4.4
+473,Tenda MW6 Nova Mesh Router,Networking,7999,12,Tenda,4.3
+474,Asus RT-AX86U Gaming Router,Networking,16999,9,Asus,4.6
+475,D-Link PowerLine AV500 Kit,Networking,3999,15,D-Link,4.1
+476,Philips 7000 Series Trimmer,Grooming,3999,30,Philips,4.5
+477,Mi Beard Trimmer 2,Grooming,1299,55,Xiaomi,4.3
+478,Panasonic ER-GB42 Trimmer,Grooming,1799,40,Panasonic,4.3
+479,Syska HB100 Hair Dryer,Grooming,999,65,Syska,4.1
+480,Philips BHC010 Hair Dryer 1200W,Grooming,1299,50,Philips,4.2
+481,NOVA NHC-2066 Trimmer,Grooming,799,70,Nova,4.0
+482,Havells Salon Ionic Hair Dryer,Grooming,2499,30,Havells,4.3
+483,Remington HC5150 Hair Clipper,Grooming,2999,22,Remington,4.4
+484,Philips OneBlade QP2724,Grooming,2299,35,Philips,4.4
+485,Gillette Fusion ProGlide Razor,Grooming,549,90,Gillette,4.4
+486,Yamaha F280 Acoustic Guitar,Music,6999,15,Yamaha,4.5
+487,Fender CD-60S Acoustic Guitar,Music,15999,8,Fender,4.6
+488,Casio CT-S300 Keyboard 61 Keys,Music,4999,18,Casio,4.4
+489,Yamaha PSR-E373 61 Key Keyboard,Music,10999,10,Yamaha,4.6
+490,Roland FP-30X Digital Piano,Music,54999,5,Roland,4.8
+491,Kadence Frontier Series Ukulele,Music,2499,25,Kadence,4.3
+492,Meinl 7 inch Bongo Set,Music,2999,15,Meinl,4.3
+493,Pearl Export EXX 5 Piece Drums,Music,34999,4,Pearl,4.6
+494,Squier Affinity Stratocaster,Music,22999,6,Squier,4.5
+495,Boss RC-1 Loop Station Pedal,Music,10999,8,Boss,4.6
+496,Fitbit Charge 6,Wearables,14999,15,Fitbit,4.4
+497,Garmin Vivosmart 5,Wearables,11999,12,Garmin,4.5
+498,Noise ColorFit Ultra 3,Wearables,3499,35,Noise,4.2
+499,Amazfit Band 7,Wearables,3999,28,Amazfit,4.3
+500,boAt Wave Sigma Smartwatch,Wearables,1499,60,Boat,4.1
+501,Samsung Galaxy Fit 3,Wearables,4499,20,Samsung,4.3
+502,Xiaomi Smart Band 8,Wearables,3499,38,Xiaomi,4.3
+503,Apple Watch SE 2nd Gen 40mm,Wearables,29900,10,Apple,4.6
+504,Garmin Fenix 7S,Wearables,64999,5,Garmin,4.7
+505,Polar Pacer Pro Sports Watch,Wearables,24999,7,Polar,4.5
+506,HP LaserJet M111a Printer,OfficeEquip,7999,18,HP,4.2
+507,Canon PIXMA G2012 Printer,OfficeEquip,10999,12,Canon,4.4
+508,Epson L3252 All-in-One Printer,OfficeEquip,12999,10,Epson,4.3
+509,Epson EB-X51 Projector,OfficeEquip,34999,7,Epson,4.4
+510,BenQ MX535 Projector,OfficeEquip,44999,5,BenQ,4.5
+511,Optoma HD146X Full HD Projector,OfficeEquip,46999,4,Optoma,4.5
+512,Fujifilm X-i10 Business Camera,OfficeEquip,19999,8,Fujifilm,4.3
+513,Canon i-SENSYS MF113W Scanner,OfficeEquip,15999,9,Canon,4.2
+514,HP ScanJet Pro 2600 f1,OfficeEquip,13999,10,HP,4.3
+515,Fellowes Powershred Shredder,OfficeEquip,9999,12,Fellowes,4.3
+516,Kindle Paperwhite 16GB,EReader,14999,20,Amazon,4.7
+517,Kindle Oasis 32GB,EReader,21999,12,Amazon,4.6
+518,Kobo Clara 2E,EReader,12999,10,Kobo,4.5
+519,Kindle Basic 2022 16GB,EReader,9999,25,Amazon,4.5
+520,Pocketbook Verse Pro,EReader,15999,8,Pocketbook,4.4
+521,Hero Lectro C3B E-Cycle,Cycling,24999,8,Hero,4.3
+522,Firefox Vibe 26T MTB Cycle,Cycling,9999,12,Firefox,4.3
+523,Trek FX 2 Disc Hybrid Bike,Cycling,49999,5,Trek,4.6
+524,Ninety One Gallop Cycle 26T,Cycling,6999,18,Ninety One,4.1
+525,Merida Big Nine 100 MTB,Cycling,34999,6,Merida,4.5
+526,Royal Enfield Leh Ladakh Cycle,Cycling,79999,3,Royal Enfield,4.4
+527,Vector Velo 700C Hybrid,Cycling,19999,9,Vector,4.2
+528,Nivia Road Runner Cycle,Cycling,14999,11,Nivia,4.1
+529,Ubon CB-7070 E-Cycle,Cycling,17999,7,Ubon,4.0
+530,Giant Talon 3 MTB 2023,Cycling,34999,5,Giant,4.5
+531,Hallmark Leather Journal A5,GiftDecor,899,60,Hallmark,4.3
+532,Archies Photo Frame 8x10,GiftDecor,499,80,Archies,4.1
+533,Amikart Macrame Wall Hanging,GiftDecor,1299,35,Amikart,4.4
+534,Craftlipi Personalized Name Plate,GiftDecor,999,45,Craftlipi,4.3
+535,Giftcart Personalised Mug,GiftDecor,499,90,Giftcart,4.2
+536,Nestasia Boho Wall Clock,GiftDecor,1799,25,Nestasia,4.4
+537,Elance Aromatherapy Diffuser,GiftDecor,1499,30,Elance,4.3
+538,Yodoit Himalayan Salt Lamp,GiftDecor,999,40,Yodoit,4.2
+539,Houzzcraft Succulent Planter Set,GiftDecor,1299,20,Houzzcraft,4.3
+540,Just Artifacts Paper Lanterns 10,GiftDecor,799,55,Just Artifacts,4.2
